@@ -1,0 +1,5 @@
+package com.gaolei.kotlin
+
+class ListNode(var `val`: Int) {
+    var next: ListNode? = null
+}
